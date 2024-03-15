@@ -1,0 +1,90 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 90px;
+    margin: 25px 10px;
+}
+
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+    font-size: 50px;
+}
+
+.center{
+    text-align: center;
+}
+
+#imgOpera{
+    margin: 15px;
+    width: 1000px;
+
+}
+
+#imgBridge{
+    margin: 15px;
+    width: 950px;
+}
+
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 80px;
+    margin: 20px 20px;
+
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin: auto;
+}
+th{
+    background-color: rgba(84, 84, 173, 0.397);
+  
+}
+tr:nth-child(5){
+    background-color:#9ACD32;
+}
+tr:nth-child(6){
+    background-color: #9ACD32;
+}
+tr:nth-child(7){
+    background-color: #9ACD32;
+}
+tr:nth-child(8){
+    background-color: #9ACD32;
+}
+tr:nth-child(9){
+    background-color: #9ACD32;
+}
+tr:nth-child(2){
+    background-color: rgba(128, 0, 0);
+    color: azure;
+}
+tr:nth-child(3){
+    background-color: rgba(128, 0, 0);
+    color: azure;
+}
+tr:nth-child(4){
+    background-color: rgba(128, 0, 0);
+    color: azure;
+}
+tr:nth-child(10){
+    background-color: rgba(128, 0, 0);
+    color: azure;
+}
+tr:nth-child(11){
+    background-color: rgba(128, 0, 0);
+    color: azure;
+}
